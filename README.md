@@ -127,7 +127,7 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 
 
 ## OUTPUT
-<img width="1016" height="712" alt="Screenshot 2025-11-12 105702" src="https://github.com/user-attachments/assets/0fa608b0-4096-41d9-9c8a-48a560718216" />
+<img width="857" height="220" alt="image" src="https://github.com/user-attachments/assets/d0cd65ce-a200-45ff-a348-fdb4082c6b8b" />
 
 <img width="1016" height="712" alt="image" src="https://github.com/user-attachments/assets/3c4ddd71-7917-4d40-92af-c36bf3da8d94" />
 
